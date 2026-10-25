@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://bryanat11.com)
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">AI & Robotics Research Officer at SUTD, working across data science, machine learning and AI engineering in Singapore</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n45e18abs3mnxul1nfuitpos4prnfbqaqbm7hnlc&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="320" hspace="20" vspace="10" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n45e18abs3mnxul1nfuitpos4prnfbqaqbm7hnlc&rid=giphy.gif&ct=g">
 
 - 🔭 I build machine learning models and the data pipelines behind them, at SUTD with HDB
 - 👁️ **Computer vision and sensor AI:** facade defect detection from RGB, thermal and acoustic data (97% accuracy CNN on Raspberry Pi, YOLO improved from 0.11 to 0.52 mAP)
